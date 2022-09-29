@@ -9,7 +9,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DeviceManagement_WebApp.Models
 {
- 
+    
     public partial class Category
     {
         public Category()
@@ -17,10 +17,13 @@ namespace DeviceManagement_WebApp.Models
             Device = new HashSet<Device>();
         }
 
+        
         [DisplayName("Category ID")]
         public Guid CategoryId { get; set; }
+        [Required]
         [DisplayName("Category Name")]
         public string CategoryName { get; set; }
+        [Required]
         [DisplayName("Category Description")]
         public string CategoryDescription { get; set; }
         [DisplayName("Category Date Created")]
