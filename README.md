@@ -10,4 +10,4 @@ to be enhanced and improved. Therefore, I:
   * Once the user has done that, they should see this page:
 
 # Security
-    To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
+  To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
