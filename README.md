@@ -8,3 +8,6 @@ to be enhanced and improved. Therefore, I:
 # This is how the user would use the App
   * The user would use this url(https://cmpg323webapplication1.azurewebsites.net) to navigate to the hosted web application.
   * Once the user has done that, they should see this page:
+
+# Security
+    To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
