@@ -6,5 +6,5 @@ to be enhanced and improved. Therefore, I:
   * Published the App to the service hosted on Azure and ensured that the App is secure and accessible
 
 # This is how the user would use the App
-  * The user would use this url() to navigate to the hosted web application.
+  * The user would use this url(https://cmpg323webapplication1.azurewebsites.net) to navigate to the hosted web application.
   * Once the user has done that, they should see this page:
