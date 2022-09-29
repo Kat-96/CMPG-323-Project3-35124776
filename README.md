@@ -26,13 +26,13 @@ to be enhanced and improved. Therefore, I:
    ![Add](https://user-images.githubusercontent.com/90704811/193009869-3d283f9f-135b-4e9e-8e5d-0dad5d3db501.png) 
    
   * The user will use the pencil icon to Edit the existing Zones, Categories and Devices.
-  * View existing Zones, Categories and Devices on the Web App.
-  * Delete existing Zones, Categories and Devices on the web app from the database.
+  * The user will use the eye icon to View existing Zones, Categories and Devices on the Web App.
+  * The user will use the bin icon to Delete existing Zones, Categories and Devices on the web app from the database.
   
    ![Icons](https://user-images.githubusercontent.com/90704811/193010600-46d3a83b-0e32-4787-9b05-e0644fb3bc57.png)
    
   * All the entries will be saved and stored in the database database. 
-  * Once you have added, edited or deleted all the Zones, Categories and Devices you want, you can then log out using the logout button on the menu tab.
+  * The user can logout, using "logout button" on the menu tab, once they have added, edited or deleted all the Zones, Categories and Devices.
 
 # Security
   To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
