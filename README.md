@@ -6,7 +6,7 @@ to be enhanced and improved. Therefore, I:
   * Published the App to the service hosted on Azure and ensured that the App is secure and accessible
 
 # This is how the user would use the App
-  * The user would use this url(https://cmpg323webapplication1.azurewebsites.net) to navigate to the hosted web application.
+  * The user would use this url => https://cmpg323webapplication1.azurewebsites.net to navigate to the hosted web application.
   * The user can Register their own account and login with their provided credentials.
   
    ![Register](https://user-images.githubusercontent.com/90704811/193010714-6128c60d-14f4-41c0-ba7b-a74a6a25c455.png)
